@@ -1,2 +1,5 @@
-# CSCI21
-CSCI21 2022
+# CSCI 21
+## COmputer Organization and Assembly Language Programming
+### Chabot College
+#### Spring 2022
+Tested with QtSpim 9.1.23
