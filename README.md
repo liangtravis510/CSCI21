@@ -1,4 +1,4 @@
-# CSCI 21
+# CSCI21 With Keith Mehl
 ## Computer Organization and Assembly Language Programming
 ### Chabot College
 #### Spring 2022
