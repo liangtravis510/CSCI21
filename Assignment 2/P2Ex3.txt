@@ -1,0 +1,3 @@
+In exercise three, the difference between addu and add is that the addu instruction does not trap overflow. Add does not have a value in register $t2 because
+the high order carry in to the next digit was different than the carry out of the high order bit. This means that there was an overflow and add traps it thus no value place
+in register $t2
