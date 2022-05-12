@@ -37,6 +37,10 @@ while:
 
 end:
 	li	$v0, 4
+	la 	$a0, nL
+	syscall
+	
+	li	$v0, 4
 	la	$a0, string
 	syscall
 
